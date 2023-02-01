@@ -16,3 +16,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sik-08&show_icons=true&theme=dark)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sik-08&exclude_repo=dkssud8150.github.io&layout=compact&theme=dark" />
 </div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wl808)](https://solved.ac/wl808)
