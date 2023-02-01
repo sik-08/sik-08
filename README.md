@@ -1,7 +1,7 @@
 <div align="center">
 <!-- header -->
   
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECODE's&fontAlign=30&fontSize=30&desc=Github&descAlign=60&descAlignY=50&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFF00,100:32CD32&height=180&fontAlignY=36&section=header&text=RECODE's%20Github%20🗂&fontSize=35&fontColor=FAFAFA" />
   
   <h3> 📚 Skill </h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -19,5 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sik-08&exclude_repo=dkssud8150.github.io&layout=compact&theme=dark" />
 </div>
 
+<div align="center">
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wl808)](https://solved.ac/wl808)
+  
+</div>
