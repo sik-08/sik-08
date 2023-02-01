@@ -1,6 +1,8 @@
 <div align="center">
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58ACFA,100:2EFEF7&height=180&fontAlignY=36&section=header&text=Sik's%20Github%20🗂️&fontSize=35&fontColor=FAFAFA" />
+  
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECODE's&fontAlign=30&fontSize=30&desc=Github&descAlign=60&descAlignY=50&theme=radical)
+  
   <h3> 📚 Skill </h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
