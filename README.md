@@ -1,7 +1,7 @@
 <div align="center">
 <!-- header -->
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:32CD32&height=180&fontAlignY=36&section=header&text=RECODE's%20Github%20🗂&fontSize=35&fontColor=FAFAFA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:000000&height=180&fontAlignY=36&section=header&text=RECODE's%20Github%20🗂&fontSize=35&fontColor=FAFAFA" />
   
   <h3> 📖 Skill </h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
