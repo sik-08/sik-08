@@ -21,8 +21,8 @@
 <div align="center"; float: right;>
   <h3> 👻 Git Stats </h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sik-08&show_icons=true&theme=dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sik-08&exclude_repo=dkssud8150.github.io&layout=compact&theme=dark" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sik-08&show_icons=true&theme=default)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sik-08&exclude_repo=dkssud8150.github.io&layout=compact&theme=default" />
 </div>
 
 <br>
