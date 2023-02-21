@@ -1,6 +1,13 @@
+<div align="right">
+  Working in 
+  <img src="https://img.shields.io/badge/%F0%9F%92%9B-WellSeeCoding-9c8&logoColor=white" />
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsik-08&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsik-08&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=RECODE%27s+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- header -->
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:00FFFF&height=180&fontAlignY=36&section=header&text=RECODE's%20GitHub%20&fontSize=35&fontColor=FAFAFA" />
@@ -11,6 +18,10 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
   <br>
+  
+  #
+  
+  <br>
   <h3> 💻 Studying </h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -19,9 +30,13 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <br>
+  
+  #
+  
+  <br>
 </div>
 <div align="center"; float: right;>
-  <h3> 👻 Git Stats </h3>
+  <h3> 👻 Stats </h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sik-08&show_icons=true&theme=default)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sik-08&exclude_repo=dkssud8150.github.io&layout=compact&theme=default" />
