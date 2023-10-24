@@ -13,6 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:00FFFF&height=180&fontAlignY=36&section=header&text=RECODE's%20GitHub%20&fontSize=35&fontColor=FAFAFA" />
 
 <div align="center">
+<img src="꼬미.jpg" style="width:100px;"/>
 <img src="WellSeeGithub.png" style="width:100px;"/>
 </div>
   
