@@ -13,8 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D0936D,100:FFFFFF&height=180&fontAlignY=36&section=header&text=PeanutJelly's%20GitHub%20&fontSize=35&fontColor=FAFAFA" />
 
 <div align="center">
-<img src="WellSeeGithub.png" style="width:100px;"/>
-<img src="PalNPal.png" style="width:100px;"/>
+<img src="PalNPal.png" style="width:110px;"/>
 </div>
     <br>
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
