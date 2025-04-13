@@ -29,7 +29,4 @@
 
 <div align="right">
   <img src="https://img.shields.io/badge/%F0%9F%92%9B-PalNPal-9c8&logoColor=white" />
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsik-08&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/sik-08)
-  
 </div>
