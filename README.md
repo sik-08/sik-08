@@ -13,13 +13,6 @@
   </a>
 </p>
 <br>
-<div align="center"; float: right;>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sik-08&show_icons=true&theme=default)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sik-08&exclude_repo=dkssud8150.github.io&layout=compact&theme=default" />
-</div>
-
-<br>
 <div align="center">
   
 [![Solved.ac
