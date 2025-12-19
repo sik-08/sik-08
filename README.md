@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D0936D,100:FFFFFF&height=180&fontAlignY=36&section=header&text=PeanutJelly's%20GitHub%20&fontSize=35&fontColor=FAFAFA" />
 
 <div align="center">
-  <img src="Logo_.png" style="width:400px;"/>
+  <img src="Logo_anim_x10.gif" style="width:400px;"/>
 </div>
 
 <br>
